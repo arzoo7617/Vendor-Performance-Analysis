@@ -7,25 +7,25 @@ This project focuses on analyzing vendor performance in the retail/wholesale ind
 
 ## 🎯 Objectives*
 
-Identify underperforming vendors and brands requiring pricing or promotional adjustments.
+- Identify underperforming vendors and brands requiring pricing or promotional adjustments.
 
-Evaluate vendor contributions to overall sales and profitability.
+- Evaluate vendor contributions to overall sales and profitability.
 
-Assess impact of bulk purchasing on cost savings.
+- Assess impact of bulk purchasing on cost savings.
 
-Analyze inventory turnover and unsold stock.
+- Analyze inventory turnover and unsold stock.
 
-Compare profitability between high-performing and low-performing vendors.
+- Compare profitability between high-performing and low-performing vendors.
 
 ## 📈 Key Insights
 
-Bulk Purchasing Advantage: Vendors buying in large quantities achieved 72% lower unit cost.
+- Bulk Purchasing Advantage: Vendors buying in large quantities achieved 72% lower unit cost.
 
-Vendor Dependency: Top 10 vendors contribute ~66% of purchases, indicating supply chain risks.
+- Vendor Dependency: Top 10 vendors contribute ~66% of purchases, indicating supply chain risks.
 
-Unsold Inventory: $2.71M tied up in slow-moving stock.
+- Unsold Inventory: $2.71M tied up in slow-moving stock.
 
-Profitability Differences: High-margin vendors struggle with sales volume, while top vendors balance cost efficiency with volume.
+- Profitability Differences: High-margin vendors struggle with sales volume, while top vendors balance cost efficiency with volume.
 
 ## 🛠️ Tools & Technologies
 
