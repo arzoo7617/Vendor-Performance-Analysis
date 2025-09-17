@@ -39,12 +39,12 @@ Profitability Differences: High-margin vendors struggle with sales volume, while
 
 ## 📊 Dashboard Preview
 
-The Power BI dashboard highlights:
+- The Power BI dashboard highlights:
 
-Top vendors & brands by sales and gross profit.
+- Top vendors & brands by sales and gross profit.
 
-Vendor contribution percentages.
+- Vendor contribution percentages.
 
-Low-performing vendors/brands.
+- Low-performing vendors/brands.
 
-Inventory turnover and unsold capital
+- Inventory turnover and unsold capital
