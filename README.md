@@ -5,7 +5,7 @@
 
 This project focuses on analyzing vendor performance in the retail/wholesale industry to optimize profitability, inventory turnover, and pricing strategy. Using Python for data analysis and Power BI for visualization, the project identifies underperforming brands, evaluates vendor contributions, and provides actionable insights for decision-making.
 
-🎯 Objectives
+*🎯 Objectives*
 
 Identify underperforming vendors and brands requiring pricing or promotional adjustments.
 
